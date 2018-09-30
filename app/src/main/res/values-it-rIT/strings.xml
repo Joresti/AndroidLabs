@@ -1,4 +1,17 @@
 <resources>
     <string name="hello_message">Ciao</string>
     <string name="app_name">AndroidLabs</string>
+    <string name="ButtonText">Sono un pulsante</string>
+    <string name="login_text">accesso</string>
+    <string name="password">parola d\'ordine</string>
+    <string name="switch_label">Cosa fa questo?</string>
+    <string name="dialog_message">Ti piacerebbe finire l\'attività?</string>
+    <string name="dialog_title">Ciao</string>
+    <string name="ok">OK</string>
+    <string name="cancel">No</string>
+    <string name="Start_Chat">inizia il grafico</string>
+    <string name="send">inviare</string>
+    <string name="enterText">digitare qui</string>
+
+
 </resources>
