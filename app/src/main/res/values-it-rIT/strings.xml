@@ -12,6 +12,9 @@
     <string name="Start_Chat">inizia il grafico</string>
     <string name="send">inviare</string>
     <string name="enterText">digitare qui</string>
+    <string name="radioButton">Pulsante radio</string>
+    <string name="checkBox">casella di controllo</string>
+
 
 
 </resources>
